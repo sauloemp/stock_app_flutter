@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549255675268",
+    "project_id": "flutter-stoks-login",
+    "storage_bucket": "flutter-stoks-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549255675268:android:761e476876ddbabd11b1d1",
+        "android_client_info": {
+          "package_name": "com.example.stock_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549255675268-j0m1psk29k9aa7qglv4smgtnlvfq120p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFRqM9hxNl7VJzpopad6JXiS2nIq6j7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549255675268-j0m1psk29k9aa7qglv4smgtnlvfq120p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,3 +16,7 @@ This project is an academic work, from the Master in Applied Programming in UFRP
 **Functionality:**<p></p>
 - Simulate investments;
 - Some
+
+## App Logo:
+
+<img src="/lib/img/Logo Stock Investment.png" alt="Stock Investment" style="height: 100px; width:250px;"/>

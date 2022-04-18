@@ -19,4 +19,4 @@ This project is an academic work, from the Master in Applied Programming in UFRP
 
 ## App Logo:
 
-<img src="/lib/img/Logo Stock Investment.png" alt="Stock Investment" style="height: 100px; width:250px;"/>
+<img src="/lib/img/Logo Stock Investment.png" alt="Stock Investment" style="height: 250px; width:250px;"/>

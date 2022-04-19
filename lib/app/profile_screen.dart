@@ -11,8 +11,14 @@ class _ProfileScreenState extends State<ProfileScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: Text("Welcome to your profile Page!"),
+      appBar: AppBar(
+        title: Text("Stock List"),
+        backgroundColor: Colors.black,
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: null,
+        child: const Icon(Icons.add),
+        backgroundColor: Colors.black,
       ),
     );
   }

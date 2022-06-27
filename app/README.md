@@ -1,10 +1,10 @@
-# finance-app
+# Stock Investment App
 
  ## Introducition:
 This project is an academic work, from the Master in Applied Programming in UFRPE-SEDE, to the discipline of Fundamentals of Applied Programming. We start to learning Dart and Flutter to building this project.This project not have interdiction to get money. So everyone whose have interesting to improve it. Just Clone and do your best. I just ask to mention me. 
 
 ## Project Propouse
-**Title of Project:** Finance-App<p></p>
+**Title of Project:** Stock Investment App<p></p>
 **Student Name:** Saulo Pereira
 
 ### Description:
@@ -15,16 +15,12 @@ This project is an academic work, from the Master in Applied Programming in UFRP
 
 **Functionality:**<p></p>
 - Simulate investments;
-- Follow You profit
-- gain experience
+- Some
 
-## Flow Dev
-```mermaid
-flowchart TD
-    A[Login Page] --> B{Sing In?}
-    B -- Yes --> C[Home Page]
-    C --> D[Add Stock Paper]
-    D --Out System--> B
-    B -- No ----> E[Sing Up]
-    E --Sing in--> B
-```
+## App Logo:
+
+<<<<<<< HEAD
+<img src="/lib/img/Logo Stock Investment.png" alt="Stock Investment" style="height: 250px; width:250px;"/>
+=======
+<img src="/lib/img/Logo Stock Investment.png" alt="Stock Investment" style="height: 250px; width:250px;"/>
+>>>>>>> 0c04be8150fb61878331fb8565bb76ef74c4cc23
